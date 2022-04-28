@@ -2,7 +2,7 @@
 
 > _“You define your own life. Don’t let other people write your script.”_
 
-![image](louis.jpg)
+![image](louis.jpg =250x)
 
 ## "A future Front-end Developper"
 
