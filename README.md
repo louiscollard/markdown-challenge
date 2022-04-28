@@ -13,9 +13,13 @@ A table with the following structure:
 ---
 
 Birthday: 22/10/1996
+
 Favorite color: Purple
+
 Favorite food: Couscous
-Pinneapple on pizza: - [] Yes - [x] No 
+
+Pinneapple on pizza: - [ ] Yes 
+		     - [x] No 
 
 ---
 
