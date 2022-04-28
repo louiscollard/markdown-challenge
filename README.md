@@ -8,12 +8,11 @@
 
 ---
 
-| Birthday | 22/10 |
-
-| Favorite color | Purple |
-
-| Favorite food | Couscous |
-
+| Tables              |      Answers       |
+| ------------------- | :----------------: |
+| Birthday            |       22/10        |
+| Favorite color      |       Purple       |
+| Favorite food       |      Couscous      |
 | Pinneapple on pizza | - [ ] Yes - [x] No |
 
 ---
