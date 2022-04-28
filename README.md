@@ -8,12 +8,12 @@
 
 ---
 
-| Tables              |      Answers       |
-| ------------------- | :----------------: |
-| Birthday            |       22/10        |
-| Favorite color      |       Purple       |
-| Favorite food       |      Couscous      |
-| Pinneapple on pizza | - [ ] Yes - [x] No |
+| Table               |    Answers     |
+| ------------------- | :------------: |
+| Birthday            |     22/10      |
+| Favorite color      |     Purple     |
+| Favorite food       |    Couscous    |
+| Pinneapple on pizza | [ ] Yes [x] No |
 
 ---
 
@@ -25,13 +25,11 @@
   - Lakers
 - Graphic Design
 
-This should contain a bullet list of your hobbies At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+## You can always count on me when...
 
-## You can always count on me when... (smaller header)
+You need some help to fix some bugs, I will do my best to help you!
 
-Tell your teammates which positive contribution to the group you will make. This could be technical, making people feel comfortable, being an organiser...
-
-## A funny story (smaller header)
+## A funny story
 
 Tell a short funny story about your life.
 
@@ -39,4 +37,4 @@ Tell a short funny story about your life.
 
 Summarise your funny story in one short sentence.
 
-<< previous || YOUR NAME || next >>
+<< previous || LOUIS || next >>
