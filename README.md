@@ -29,12 +29,4 @@
 
 You need some help to fix some bugs, I will do my best to help you!
 
-## A funny story
-
-Tell a short funny story about your life.
-
-### TL;DR
-
-Summarise your funny story in one short sentence.
-
 << [previous](https://github.com/llyllyra/markdown-challenge) || LOUIS || [next](https://github.com/MrOlivierdA/markdown-challenge) >>
