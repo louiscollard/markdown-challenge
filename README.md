@@ -2,18 +2,18 @@
 
 > _“You define your own life. Don’t let other people write your script.”_
 
-<img src"louis.jpg">
+![image](louis.jpg)
 
 ## "A future Front-end Developper"
 
 ---
 
-| Table               |    Answers     |
-| ------------------- | :------------: |
-| Birthday            |     22/10      |
-| Favorite color      |     Purple     |
-| Favorite food       |    Couscous    |
-| Pinneapple on pizza | [ ] Yes [x] No |
+| Table               |  Answers   |
+| ------------------- | :--------: |
+| Birthday            |   22/10    |
+| Favorite color      |   Purple   |
+| Favorite food       |  Couscous  |
+| Pinneapple on pizza | ☐ Yes ☑ No |
 
 ---
 
@@ -33,8 +33,8 @@ You need some help to fix some bugs, I will do my best to help you!
 
 Tell a short funny story about your life.
 
-### TL;DR (even smaller header, under funny story)
+### TL;DR
 
 Summarise your funny story in one short sentence.
 
-<< previous || LOUIS || next >>
+<< [previous](https://github.com/llyllyra/markdown-challenge) || LOUIS || [next](https://github.com/MrOlivierdA/markdown-challenge) >>
