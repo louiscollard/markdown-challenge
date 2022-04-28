@@ -1,4 +1,4 @@
-Louis Collard# (as a large header)
+#Louis Collard
 
 An inspirational quote in italics
 
