@@ -1,17 +1,23 @@
-#Louis Collard
+# Louis Collard
 
 An inspirational quote in italics
 
+> “You define your own life. Don’t let other people write your script.”
+
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-"Me, in one sentence" (as a smaller header)
+## "A future Front-end Developper" (as a smaller header)
 
 A table with the following structure:
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+---
+
+Birthday: 22/10/1996
+Favorite color: Purple
+Favorite food: Couscous
+Pinneapple on pizza: - [] Yes - [x] No 
+
+---
 
 Hobbies (smaller header)
 
